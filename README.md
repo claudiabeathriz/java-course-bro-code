@@ -28,9 +28,9 @@ java-practice/
    cd course-brocode/lesson-01-variables
 
 2. Compile and run the Java file:
-
-javac Variables.java
-java Variables
+   ```bash
+   javac Variables.java
+   java Variables
 
 🛠 Tools
 
