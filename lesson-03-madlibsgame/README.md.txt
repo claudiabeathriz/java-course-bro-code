@@ -32,19 +32,12 @@ In an exhibit, I saw a monkey
 monkey was silly and dancing!
 I was amazed!
 
-markdown
-
 ## How to Compile & Run
 1. Open a terminal in the folder containing `MadLibsGame.java`.  
 2. Compile:
-javac MadLibsGame.java
-
-markdown
-
+   javac MadLibsGame.java
 3. Run:
-java MadLibsGame
-
-pgsql
+   java MadLibsGame
 
 ## Notes
 - The game uses `Scanner` to read user input from the console.  
