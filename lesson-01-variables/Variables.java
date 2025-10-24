@@ -29,8 +29,12 @@ public class Variables {
          */
 
         //primitive = simple value stored directly in memory (stack)
+        //the stack is a fixed-size, fast memory region for automatically managed, short-lived local variables and function calls
+        //LIFO(last-in, first-out; also, can cause stack overflow (memory)
         //int, double, char, boolean
         //reference = memory address (stack) that points to the (heap)
+        //the heap is a larger, flexible memory region for dynamically allocated, long-lived data that must be manually managed
+        //potential issues include memory leaks or fragmentation if not managed correctly
         //string, array, object
 
         /*steps to creating a variable:
