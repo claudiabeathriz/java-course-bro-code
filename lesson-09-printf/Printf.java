@@ -28,6 +28,13 @@ public class Printf {
         System.out.printf("You are %f cm tall. \n", height);
         System.out.printf("Employed: %b. \n", isEmployed);
 
+        //output:
+        //Hello, claudia!
+        //Your name starts with a c.
+        //You are 25 years old.
+        //You are 1,600000 cm tall.
+        //Employed: true.
+
         //precision
         //flags
         // + = output a plus
@@ -45,6 +52,13 @@ public class Printf {
         System.out.printf("% .2f\n", price3);
         System.out.printf("% .2f\n", price1);
 
+        //output:
+        //+9,99
+        //100.000,15
+        //(54,01)
+        //-54,01
+        //9,99
+
         //width
         // 0 = zero padding
         // number = right justified padding
@@ -59,6 +73,12 @@ public class Printf {
         System.out.printf("%4d\n", id2);
         System.out.printf("%-4d\n", id3);
         System.out.printf("%4d\n", id4);
+
+        //output:
+        //0001
+        //23
+        //456
+        //7890
 
         scanner.close();
     }
