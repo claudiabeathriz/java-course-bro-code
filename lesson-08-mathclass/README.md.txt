@@ -1,8 +1,8 @@
-# Lesson 08 - Math Class
+Lesson 08 - Math Class
 
 This lesson introduces the **`Math` class** in Java, which provides a collection of methods and constants for performing mathematical operations.
 
-## Topics Covered
+*Topics Covered*
 - **Mathematical constants**:
   - `Math.PI` → The value of π (3.14159…)
   - `Math.E` → The base of natural logarithms (2.718…)
@@ -16,7 +16,7 @@ This lesson introduces the **`Math` class** in Java, which provides a collection
   - `Math.max(a, b)` → Returns the larger of two values
   - `Math.min(a, b)` → Returns the smaller of two values
 
-## Learning Notes
+*Notes*
 - The `Math` class is part of the **java.lang** package, so it does not need to be imported.  
 - Methods in `Math` are **static**, meaning you call them using `Math.methodName()` without creating an object.  
 - It is commonly used in calculations, simulations, statistics, and problem-solving.
