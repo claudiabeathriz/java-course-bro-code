@@ -1,15 +1,15 @@
-# Lesson 13 - Substrings
+Lesson 13 - Substrings
 
 This lesson introduces the **`.substring()`** method in Java, which is used to extract portions of a string based on starting and ending index positions.
 
-## Topics Covered
+*Topics Covered*
 - Using `.substring(start, end)` and `.substring(start)`  
 - Finding character positions with `.indexOf()`  
 - Checking if a string contains a character using `.contains()`  
 - Extracting username and domain from an email address  
 - Handling invalid input with conditional statements  
 
-## Program Logic
+*Program Logic*
 1. The user enters an email address.  
 2. The program checks if the input contains an `"@"` symbol.  
 3. If it does:
@@ -17,7 +17,7 @@ This lesson introduces the **`.substring()`** method in Java, which is used to e
    - The part after `@` is extracted as the **domain**.  
 4. If it doesn’t, an error message is displayed.  
 
-## Learning Notes
+*Notes*
 - `.substring(start, end)` extracts characters from `start` (inclusive) to `end` (exclusive).  
 - `.substring(start)` extracts from `start` to the end of the string.  
 - `.indexOf("@")` helps locate where to split the string.  
