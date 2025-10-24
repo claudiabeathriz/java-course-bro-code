@@ -1,16 +1,16 @@
-# Lesson 06 - If Statements
+Lesson 06 - If Statements
 
 This lesson introduces **if statements** in Java.  
 The program demonstrates how to use conditional logic to make decisions based on user input.
 
-## Topics Covered
+*Topics Covered*
 - Using `if`, `else if`, and `else`
 - Evaluating conditions with relational and logical operators
 - Handling multiple conditions
 - Taking input with `Scanner`
 - Working with `String`, `int`, and `boolean`
 
-## How the Program Works
+*How the Program Works*
 1. The program asks the user for:
    - Their **name** (`String`)
    - Their **age** (`int`)
@@ -23,7 +23,7 @@ The program demonstrates how to use conditional logic to make decisions based on
 
 3. The program outputs personalized messages based on these conditions.
 
-## Example Run
+*Example Run*
 Enter your name:
 Claudia
 Enter your age:
@@ -33,21 +33,4 @@ true
 Hello, Claudia!
 You are an adult!
 You are a student.
-
-
-## How to Compile & Run
-1. Open a terminal in the folder containing `IfStatements.java`.
-
-2. Compile the program:
-javac IfStatements.java
-
-3. Run the program:
-java IfStatements
-
-Learning Outcome
-After this lesson, you should be able to:
-
-Write and structure conditional statements with if, else if, and else.
-Combine relational operators (>, <, >=, <=, ==) with logical operators (&&, ||).
-Use Scanner to capture different types of user input.
 Apply branching logic to control program flow.
