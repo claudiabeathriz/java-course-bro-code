@@ -1,9 +1,9 @@
-# Lesson 09 - Printf
+Lesson 09 - Printf
 
 This lesson introduces the **`printf()` method** in Java, which is used to format and print output.  
 It allows control over how text, numbers, and other data types are displayed, making output cleaner and more professional.
 
-## Topics Covered
+*Topics Covered*
 - Basic usage of `printf()`
 - Format specifiers:
   - `%s` → Strings
@@ -22,7 +22,7 @@ It allows control over how text, numbers, and other data types are displayed, ma
   - Positive number → Right-aligned
   - Negative number → Left-aligned
 
-## Learning Notes
+*Notes*
 - `printf()` is part of **formatted output** in Java, offering more control than `println()`.  
 - It is widely used in console applications, reporting, and debugging.  
 - Formatting is especially useful when working with financial data, tabular output, and user-friendly displays.
