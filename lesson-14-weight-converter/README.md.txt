@@ -3,13 +3,13 @@ Lesson 14 - Weight Converter
 This Java program converts **weights** between pounds (lbs) and kilograms (kgs).  
 It allows the user to choose the conversion direction and then performs the appropriate calculation.
 
-## 🧩 Concepts Covered
+*Concepts Covered*
 - User input with `Scanner`
 - Conditional statements (`if`, `else if`, `else`)
 - Mathematical operations
 - Output formatting with `System.out.printf()`
 
-## 📘 Code Explanation
+*Code Explanation*
 
 System.out.println("1. Convert lbs to kgs");
 System.out.println("2. Convert kgs to lbs");
@@ -29,7 +29,7 @@ Divides by 0.453592 to convert kilograms into pounds.
 
 If the user inputs an invalid option, the program prints: Not a valid choice.
 
-🧠 Notes
+*Notes*
 
 The conversion factor used is 1 lb = 0.453592 kg.
 The program uses printf for two-decimal precision in the output.
