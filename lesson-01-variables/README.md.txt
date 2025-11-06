@@ -7,21 +7,7 @@ Variables are used to store data values such as numbers, text, or booleans.
 - Declaring variables
 - Assigning values
 - Printing variables
-- Understanding data types (int, double, boolean, String)
+- Understanding data types (byte, short, char, int, long, float, double, boolean, String (non-primitive))
 
 *Code Example*
 See [Variables.java](./Variables.java) for the complete code.
-
-public class Variables {
-    public static void main(String[] args) {
-        int age = 25;
-        double price = 19.99;
-        boolean isStudent = true;
-        String name = "Claudia";
-
-        System.out.println("Name: " + name);
-        System.out.println("Age: " + age);
-        System.out.println("Price: " + price);
-        System.out.println("Is student? " + isStudent);
-    }
-}
