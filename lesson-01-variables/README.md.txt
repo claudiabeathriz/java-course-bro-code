@@ -3,13 +3,13 @@ Lesson 01 - Variables
 This lesson introduces **variables** in Java.  
 Variables are used to store data values such as numbers, text, or booleans.
 
-**Topics Covered**
+**Topics Covered*
 - Declaring variables;
 - Assigning values;
 - Printing variables;
 - Understanding data types (byte, short, char, int, long, float, double, boolean, String (non-primitive)).
 
-**Identifiers**
+*Identifiers*
 All Java variables must be identified with unique names.
 These unique names are called identifiers.
 Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
