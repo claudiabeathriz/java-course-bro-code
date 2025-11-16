@@ -1,7 +1,7 @@
 public class StaticFriend {
 
     static int numOfFriends;
-    //as if all the objects are sharing the same variable
+    // as if all the objects are sharing the same variable
     String name;
 
     StaticFriend(String name){
