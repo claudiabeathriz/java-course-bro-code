@@ -50,6 +50,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lesson-44-super" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-45-method-overriding" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-46-tostring-method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-47-abstraction" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
