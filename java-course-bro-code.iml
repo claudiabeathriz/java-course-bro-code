@@ -53,6 +53,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lesson-47-abstraction" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-48-interfaces" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-49-polymorphism" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-50-runtime-polymorphism" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
