@@ -6,8 +6,8 @@ public class ShoppingCartProgram {
 
         Scanner scanner = new Scanner(System.in);
 
-        String item;
-        double price;
+        String item = "Bola";
+        double price = 2;
         int quantity;
         char currency = '$';
         double total;
