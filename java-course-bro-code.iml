@@ -56,6 +56,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lesson-50-runtime-polymorphism" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-51-getters-and-setters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-52-aggregation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-53-composition" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
