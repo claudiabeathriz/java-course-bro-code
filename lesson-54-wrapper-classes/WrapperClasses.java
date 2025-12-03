@@ -57,7 +57,7 @@ public class WrapperClasses {
         System.out.println(Character.isUpperCase(letter));
         // is this character upper case?
 
-        
+
 
 
 
