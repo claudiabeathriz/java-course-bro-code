@@ -61,6 +61,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lesson-55-array-lists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-56-exception" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-57-write-files" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-58-read-files" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
