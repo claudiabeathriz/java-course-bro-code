@@ -43,6 +43,7 @@ public class MusicPlayer {
             }
 
             //System.out.println("No problems detected");
+            
         }
         catch(FileNotFoundException e){
             System.out.println("Could not locate file");
