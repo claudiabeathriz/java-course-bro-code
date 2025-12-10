@@ -13,7 +13,7 @@ This repository contains my **Java practice projects and exercises** from the
 ## 📂 Repository Structure
 java-practice/
 │
-├─ course-brocode/
+├─ java-course-bro-code/
 │ ├─ lesson-01-variables/
 │ │ ├─ Variables.java
 │ │ └─ README.md
@@ -25,7 +25,7 @@ java-practice/
 ## ▶️ How to Run
 1. Navigate to the lesson folder:
    ```bash
-   cd course-brocode/lesson-01-variables
+   cd java-course-bro-code/lesson-01-variables
 
 2. Compile and run the Java file:
    ```bash
@@ -41,5 +41,8 @@ IntelliJ IDEA
 
 GitHub Desktop
  (for version control)
+
+ Windows PowerShell
+ (interacting with Git)
 
 ✨ This repository documents my journey learning Java step by step.
