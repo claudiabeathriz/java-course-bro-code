@@ -66,6 +66,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lesson-60-hangman-game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-61-dates-and-times" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-62-anonymous-class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-63-timertasks" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
