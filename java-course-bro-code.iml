@@ -69,6 +69,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lesson-63-timertasks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-64-countdown-timer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-65-generics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-66-hashmaps" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
