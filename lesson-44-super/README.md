@@ -4,13 +4,13 @@ This lesson introduces the super keyword, which allows a subclass to access pare
 It is commonly used in constructor chaining and method overriding to refer to the parent class.
 
 *Class Structure*
+
 Super.java          → Main class (creates objects and calls methods)
 SuperPerson.java    → Parent class (defines basic person attributes)
 SuperStudent.java   → Subclass of Person (adds GPA)
 SuperEmployee.java  → Subclass of Person (adds salary)
 
 *Key Concepts Demonstrated*
-
 - super in Constructors:
 	Allows subclasses to call the parent class constructor to initialize inherited attributes.
 	Example: super(firstName, lastName); in Student or Employee.
