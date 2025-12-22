@@ -4,6 +4,7 @@ This lesson introduces the **toString()** method in Java, which is inherited fro
 By default, it returns a memory reference (hash code), but it can be overridden to display meaningful and readable information.
 
 *Topics Covered*
+
 - What the toString() method is
 - Default behavior of toString() in Java
 - Overriding methods using @Override
