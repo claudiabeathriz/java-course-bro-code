@@ -72,6 +72,7 @@ public class SlotMachine {
 
         //exit message
         System.out.println("Game Over. Your final balance is: $ " + balance);
+        // for later: show balance after each play
 
         scanner.close();
     }
