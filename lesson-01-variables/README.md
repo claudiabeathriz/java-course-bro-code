@@ -17,4 +17,5 @@ Identifiers can be short names (like x and y) or more descriptive names (age, su
 Note: It is recommended to use descriptive names in order to create understandable and maintainable code.
 
 *Code Example*
+
 See [Variables.java](./Variables.java) for the complete code.
