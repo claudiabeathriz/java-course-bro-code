@@ -12,6 +12,7 @@ The game asks the user to input words (adjectives, nouns, verbs) and then genera
 3. The program combines the words into a short story and prints it to the console.
 
 *Example Run*
+
 Enter an adjective (description):
 funny
 Enter a noun (animal/person):
