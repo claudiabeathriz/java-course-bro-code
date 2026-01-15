@@ -21,6 +21,7 @@ total = price * quantity
 3. The program prints a summary with the total price.
 
 *Example Run*
+
 What item would you like to buy?
 Notebook
 What is the price for each?
