@@ -24,6 +24,7 @@ The program demonstrates how to use conditional logic to make decisions based on
 3. The program outputs personalized messages based on these conditions.
 
 *Example Run*
+
 Enter your name:
 Claudia
 Enter your age:
