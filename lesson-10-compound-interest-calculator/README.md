@@ -10,6 +10,7 @@ This lesson demonstrates how to calculate **compound interest** in Java using us
 - Combining text and formatted variables in console output
 
 *Formula Used*
+
 The compound interest formula is:
 A = P * (1 + r/n)^(n * t)
 
