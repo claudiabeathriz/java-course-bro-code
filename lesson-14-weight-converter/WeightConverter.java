@@ -34,7 +34,6 @@ public class WeightConverter {
             newWeight = weight / 0.453592;
             System.out.printf("The weight in lbs is %.2f", newWeight);
         }
-        //else print not a valid choice
         else{
             System.out.println("Not a valid choice.");
         }
