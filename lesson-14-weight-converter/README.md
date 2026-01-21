@@ -30,7 +30,6 @@ Divides by 0.453592 to convert kilograms into pounds.
 If the user inputs an invalid option, the program prints: Not a valid choice.
 
 *Notes*
-
-The conversion factor used is 1 lb = 0.453592 kg.
-The program uses printf for two-decimal precision in the output.
-Always closes the Scanner at the end to prevent resource leaks.
+- The conversion factor used is 1 lb = 0.453592 kg.
+- The program uses printf for two-decimal precision in the output.
+- Always closes the Scanner at the end to prevent resource leaks.
