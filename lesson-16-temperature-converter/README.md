@@ -2,19 +2,17 @@ Lesson 16: Temperature Converter
 
 A simple Java program that converts temperatures between Celsius and Fahrenheit using the ternary operator for concise conditional logic.
 
-This program allows the user to:
+*This program allows the user to:*
+- Enter a temperature value.
+- Choose whether to convert it to Celsius (C) or Fahrenheit (F).
+- Instantly see the converted result formatted with one decimal place.
 
-Enter a temperature value.
-Choose whether to convert it to Celsius (C) or Fahrenheit (F).
-Instantly see the converted result formatted with one decimal place.
-
-It demonstrates:
-User input with Scanner
-Use of the ternary operator (? :) for inline conditionals
-Output formatting with System.out.printf()
+*It demonstrates:*
+- User input with Scanner
+- Use of the ternary operator (? :) for inline conditionals
+- Output formatting with System.out.printf()
 
 *Concepts Practiced*
-
 - Scanner class for user input
 - Conditional (ternary) operator
 - Mathematical expressions for temperature conversion
@@ -23,6 +21,7 @@ Output formatting with System.out.printf()
 *Conversion Formulas*
 
 °C = (°F − 32) × 5/9
+
 °F = (°C × 9/5) + 32
 
 *Example*
