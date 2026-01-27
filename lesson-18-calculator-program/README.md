@@ -10,8 +10,7 @@ This program demonstrates how to create a simple **calculator** in Java that per
 - `Math.pow()` for exponents
 
 *Notes*
-
-Scanner reads user input from the console.
-The arrow syntax (->) in switch is available from Java 14+.
-Math.pow(a, b) returns a raised to the power of b.
-Always close the scanner with scanner.close() to avoid resource leaks.
+- Scanner reads user input from the console.
+- The arrow syntax (->) in switch is available from Java 14+.
+- Math.pow(a, b) returns a raised to the power of b.
+- Always close the scanner with scanner.close() to avoid resource leaks.
