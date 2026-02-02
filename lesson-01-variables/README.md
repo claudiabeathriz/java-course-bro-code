@@ -1,7 +1,7 @@
 Lesson 01 - Variables
 
 This lesson introduces **variables** in Java.  
-Variables are used to store data values such as numbers, text, or booleans.
+They are used to store data values such as numbers, text, or booleans.
 
 *Topics Covered*
 - Declaring variables;
