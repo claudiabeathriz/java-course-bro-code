@@ -3,7 +3,7 @@ Lesson 25 - Methods
 This lesson introduces methods in Java — blocks of reusable code that execute when called. Methods help organize programs, reduce repetition, and improve readability by following the D.R.Y. principle (Don’t Repeat Yourself). They make the code modular, maintainable, and scalable.
 
 *Topics Covered*
-
+------------
 - Create a method
 
 A method must be declared within a class. It is defined with the name of the method, followed by parentheses ()
