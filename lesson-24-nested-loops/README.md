@@ -1,6 +1,6 @@
 Lesson 24 - Nested Loops
 
-This lesson introduces nested loops in Java — loops placed inside other loops — which are often used for working with grids, matrices, and multi-dimensional data. It strengthens understanding of iteration within iteration, a core concept in matrix operations, sorting algorithms, and pattern generation.
+This lesson introduces nested loops in Java (loops placed inside other loops) which are often used for working with grids, matrices, and multi-dimensional data. It strengthens understanding of iteration within iteration, a core concept in matrix operations, sorting algorithms, and pattern generation.
 
 *Topics Covered*
 - Nested loop structure
