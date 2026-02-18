@@ -9,7 +9,6 @@ ObjectOrientedProgramming.java   → Main class (creates and interacts with the 
 OOPCar.java                      → Subclass defining the Car blueprint
 
 *Key Concepts Demonstrated*
-
 - Class Definition:
 OOPCar acts as a blueprint that defines what a car is and what it can do.
 
@@ -42,9 +41,8 @@ The isRunning attribute changes dynamically when start() and stop() are called.
 Data (attributes) and behavior (methods) are contained within the same object.
 
 *Notes*
-
-Classes define blueprints.
-Objects are real instances created from those blueprints.
-Attributes hold an object’s state.
-Methods define what the object can do.
-Together, they make code modular, reusable, and easier to maintain.
+- Classes define blueprints.
+- Objects are real instances created from those blueprints.
+- Attributes hold an object’s state.
+- Methods define what the object can do.
+- Together, they make code modular, reusable, and easier to maintain.
