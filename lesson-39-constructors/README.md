@@ -4,11 +4,11 @@ This lesson introduces constructors, a special type of method used to initialize
 Constructors set the initial state of an object by assigning values to its attributes.
 
 *Class Structure*
+
 Constructors.java           → Main class (creates objects and tests behavior)
 ConstructorsStudents.java   → Subclass (defines attributes, constructor, and methods)
 
 *Key Concepts Demonstrated*
-
 - Constructor Definition:
 A constructor has the same name as the class and no return type.
 It is called automatically when an object is created.
@@ -40,7 +40,6 @@ Each student object calls the study() method, which prints a custom message usin
 The attributes (name, age, gpa, isEnrolled) are grouped inside the class with related behavior.
 
 *Notes*
-
-Constructors automatically run when an object is instantiated.
-The this keyword links constructor parameters to class fields.
-OOP in Java supports organized, modular, and data-driven object creation.
+- Constructors automatically run when an object is instantiated.
+- The this keyword links constructor parameters to class fields.
+- OOP in Java supports organized, modular, and data-driven object creation.
