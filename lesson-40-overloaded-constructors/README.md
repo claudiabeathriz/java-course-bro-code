@@ -4,11 +4,11 @@ This lesson introduces overloaded constructors, which allow a class to have mult
 They provide flexibility in how objects are initialized — enabling the creation of objects even when not all data is available at instantiation.
 
 *Class Structure*
+
 OverloadedConstructors.java        → Main class (creates and prints user objects)
 OverloadedConstructorsUser.java    → Subclass (defines attributes and overloaded constructors)
 
 *Key Concepts Demonstrated*
-
 - Constructor Overloading:
 A class can have multiple constructors that differ in:
 
