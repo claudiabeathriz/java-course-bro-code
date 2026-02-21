@@ -9,7 +9,6 @@ ArrayOfObjects.java → Main class (creates and iterates over an array of car ob
 ArrayOfObjectsCar.java → Object class (defines car attributes and behavior)
 
 *Key Concepts Demonstrated*
-
 - Array of Objects
 Instead of storing primitive values, an array can store references to objects.
 Each position in the array points to an instance of the ArrayOfObjectsCar class.
