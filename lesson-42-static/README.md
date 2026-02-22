@@ -9,7 +9,6 @@ Static.java → Main class (creates objects and accesses static members)
 StaticFriend.java → Object class (defines instance data and static shared data)
 
 *Key Concepts Demonstrated*
-
 - Static Variables (Class Variables)
 A static variable belongs to the class, not to a specific object.
 All instances of the class share the same static variable.
