@@ -16,7 +16,6 @@ InheritanceOrganism.java      → Parent class (base class for all living things
 └── InheritancePlant.java     → Subclass of Organism
 
 *Key Concepts Demonstrated*
-
 - Multilevel Inheritance:
 Dog and Cat inherit from Animal, which inherits from Organism.
 Plant also inherits directly from Organism.
@@ -31,7 +30,6 @@ Dog and Cat redefine the speak() method inherited from Animal.
 Plant inherits life-related attributes but defines its own method photosynthesize().
 
 *Notes*
-
-Common behavior (like being alive or eating) is centralized in higher-level classes.
-Specific traits (like barking or meowing) are implemented in subclasses.
-Inheritance chains allow for both shared structure and individual specialization.
+- Common behavior (like being alive or eating) is centralized in higher-level classes.
+- Specific traits (like barking or meowing) are implemented in subclasses.
+- Inheritance chains allow for both shared structure and individual specialization.
