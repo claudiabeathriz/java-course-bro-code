@@ -21,6 +21,5 @@ public class Abstraction {
         System.out.println(circle.area());
         System.out.println(triangle.area());
         System.out.println(square.area());
-
     }
 }
