@@ -16,8 +16,8 @@ public class Variables {
         System.out.print("Buy me pizza!");
         System.out.println();
 
-        /*variable = a reusable container for a value
-                     a variable behaves as if it was the value it contains
+        /*variable = a named entity used by a program to store
+                     or refer to a value during execution
 
          The general rules for naming variables are:
             Names can contain letters, digits, underscores, and dollar signs
@@ -28,11 +28,12 @@ public class Variables {
             Reserved words (like Java keywords, such as int or boolean) cannot be used as names
          */
 
-        //primitive = simple value stored directly in memory (stack)
-        //the stack is a fixed-size, fast memory region for automatically managed, short-lived local variables and function calls
-        //LIFO(last-in, first-out; also, can cause stack overflow (memory)
-        //int, double, char, boolean
-        //reference = memory address (stack) that points to the (heap)
+        //primitive = copy of a simple value stored directly in memory (stack)
+        // the stack is a fixed-size, fast memory region for automatically managed,
+        // short-lived local variables and function calls
+        // LIFO(last-in, first-out; also, can cause stack overflow (memory)
+        // int, double, char, boolean
+        // reference = memory address (stack) that points to the (heap)
         //the heap is a larger, flexible memory region for dynamically allocated, long-lived data that must be manually managed
         //potential issues include memory leaks or fragmentation if not managed correctly
         //string, array, object
