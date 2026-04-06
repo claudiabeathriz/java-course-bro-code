@@ -33,11 +33,13 @@ public class Variables {
         // short-lived local variables and function calls
         // LIFO(last-in, first-out; also, can cause stack overflow (memory)
         // int, double, char, boolean
+
         // reference = a value that allows the program to access the object
         // copy of the memory address (stack) that points to the object in the (heap)
-        // the heap is a larger, flexible memory region for dynamically allocated, long-lived data that must be manually managed
-        //potential issues include memory leaks or fragmentation if not managed correctly
-        //string, array, object
+        // the heap is a larger, flexible memory region for dynamically allocated,
+        // long-lived data that must be manually managed
+        // potential issues include memory leaks or fragmentation if not managed correctly
+        // string, array, object
 
         /*steps to creating a variable:
         1. declaration
