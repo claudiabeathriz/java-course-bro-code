@@ -41,7 +41,7 @@ public class Variables {
         // potential issues include memory leaks or fragmentation if not managed correctly
         // string, array, object
 
-        /*steps to creating a variable:
+        /* steps to creating a variable:
         1. declaration
         2. assignment
          */
@@ -59,14 +59,14 @@ public class Variables {
         char currency = '$';
 
         boolean isStudent = true;
-        /*camelCase is a naming convention used for writing identifiers
-        like method names & variable names.
+        /* camelCase is a naming convention used for
+        writing identifiers like method names & variable names.
         In this, each word in the identifier starts with a capital letter
         and the first word starts with a lowercase letter.
          */
         boolean forSale = false;
         boolean isOnline = true;
-        /*We don't typically output them directly to the console,
+        /* we don't typically output them directly to the console,
         we tend to use them more internally within the program.
          */
 
