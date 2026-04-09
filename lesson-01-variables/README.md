@@ -1,7 +1,11 @@
 Lesson 01 - Variables
 
 This lesson introduces **variables** in Java.  
-They are used to store data values such as numbers, text, or booleans.
+A variable is a named entity used by a program to store or refer to a value during execution.
+
+In Java, a variable has a declared type and a name. During execution, it holds a value. 
+Depending on its type, that value may be a primitive value or a reference to an object. 
+The variable's scope determines where it can be accessed.
 
 *Topics Covered*
 - Declaring variables;
