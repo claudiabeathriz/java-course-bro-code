@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class UserInput {
     public static void askAge(String[] args) {
 
-        //scanner: object that allows user input in Java
+        // Scanner: object that allows user input in Java
         //         needs to be imported from utilities
 
         Scanner scanner = new Scanner(System.in);
@@ -34,8 +34,8 @@ public class UserInput {
         scanner.nextLine();
 
         // we use scanner.nextLine() right after nextInt()
-        // to "consume" the newline character (\n)
-        // left in the input buffer when the user presses Enter (clean the buffer).
+        // to "consume" the newline character (\n) left in the input buffer
+        // when the user presses Enter (clean the buffer).
         // without this, the next nextLine() would read that empty \n
         // and it would look like the user didn't type anything.
 
